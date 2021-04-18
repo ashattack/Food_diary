@@ -30,10 +30,7 @@ function Navbar() {
             >
               About
             </Link>
-          </li>
-         
-          
-         
+          </li>   
         </ul>
       </div>
     </nav>
