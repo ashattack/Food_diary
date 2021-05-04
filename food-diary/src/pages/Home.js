@@ -5,7 +5,8 @@ import Container from "../components/Container"
 function Home() {
     return (
      
-        <h1> Hello World</h1>
+        <h1> Foodies </h1>
+        
     );
 }
 
